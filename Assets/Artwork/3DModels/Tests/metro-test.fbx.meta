@@ -7,6 +7,11 @@ ModelImporter:
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
+      name: rustic-metro-exit.png
+    second: {fileID: 2100000, guid: 59659186e45a02247b92a827ebf3281d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
       name: sheet-rustic-square.png
     second: {fileID: 2100000, guid: 61db1034baf03ae4c9620e640dba9a34, type: 2}
   materials:
